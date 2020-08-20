@@ -1,0 +1,13 @@
+#main-header {
+  height: 60px;
+  width: 100%;
+  background: #ED3F3C;
+  font-size: 32px;
+  font-weight: bold;
+  color: #FFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;;
+}
